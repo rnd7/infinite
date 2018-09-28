@@ -1,6 +1,9 @@
 # Lux & Lucid Infinite
 Electron Application written for a video installation in 2017. It is basically a infinite zoom realized programmatically. The App picks random images from the assets directory changes the colors a bit and animates them towards the viewer. You can change some parameters during runtime. The App features rudimentary projection mapping capabilities. It's a quick and dirty solution just for one show, so don't expect too much.
 
+## Before you download
+The repo is quite heavy (> 100 MB) due to the images included in the assets directory.
+
 ## Installation
 You need node and npm installed on your machine. It should work on all platforms electron supports. I only tested in on a linux machine.
 
