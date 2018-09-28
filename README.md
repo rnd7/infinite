@@ -26,6 +26,6 @@ While images are loaded the animation might lag. This only happens, when a image
 ## License
 
 The images within the assets directory are all copyright by rnd7 and licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) 
-![Creative Commons License](http://creativecommons.org/licenses/by-nc/4.0/)
+![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 See the [LICENSE](LICENSE.md) file for software license rights and limitations (GPL-v3).
