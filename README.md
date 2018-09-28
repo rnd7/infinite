@@ -15,7 +15,7 @@ npm start
 ```
 ## Screenshot
 
-![slides](https://raw.githubusercontent.com/rnd7/emerald/master/doc/screenshot.png)
+![slides](https://raw.githubusercontent.com/rnd7/infinite/master/doc/screenshot.png)
 
 ## Known issues
 While images are loaded the animation might lag. This only happens, when a image is loaded for the first time.
